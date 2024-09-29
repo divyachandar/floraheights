@@ -1,0 +1,16 @@
+#address{
+  margin-top:2rem ;
+  text-align: center;
+  font-weight: bold;
+  font-size:2rem ;
+}
+.responsive-map{
+  overflow: hidden;
+  height:0;
+  padding-bottom: 30%;
+  position: relative;
+}
+
+.responsive-map iframe{
+  
+}
